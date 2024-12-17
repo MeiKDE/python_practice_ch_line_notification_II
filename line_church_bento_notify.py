@@ -13,8 +13,7 @@ today = datetime.now()
 formatted_date = today.strftime("%m/%d")
 
 # Message to be sent
-# message = f"{formatted_date} 大家，請確保回覆, 謝謝～ \n 1. \n 2. "
-message = f"{formatted_date} TEST TEST \n 1. \n 2. "
+message = f"{formatted_date} 大家，請確保回覆, 謝謝～ \n 1. \n 2. "
 
 # Set headers and data payload
 headers = {"Authorization": f"Bearer {ACCESS_TOKEN}"}
