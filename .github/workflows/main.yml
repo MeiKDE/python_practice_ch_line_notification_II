@@ -2,7 +2,7 @@ name: Weekly LINE Notify Message Test
 
 on:
   schedule:
-    - cron: '*/4 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   send-message:
