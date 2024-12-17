@@ -1,4 +1,4 @@
-name: Weekly LINE Notify Message
+name: Weekly LINE Notify Message Test
 
 on:
   schedule:
