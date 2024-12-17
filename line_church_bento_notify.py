@@ -1,4 +1,3 @@
-# Specter: XlmdyvYZIsgeLhJMZ3xbU94DIqOnCgHxOdIUQ0b70ao
 import requests
 from datetime import datetime
 import os
